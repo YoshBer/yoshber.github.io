@@ -82,9 +82,7 @@ a {
     text-align: center;
     padding: 15rem 0; }
     #header-content .text-gradient {
-      background: linear-gradient(to right, #e0610e, #f7b733);
-      color: transparent;
-      background-clip: text; }
+      color: #e0610e; }
 
 #about {
   padding: 6rem 0; }
